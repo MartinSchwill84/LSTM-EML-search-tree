@@ -12,7 +12,7 @@ discover symbolic representations of arbitrary transcendental constants from
 the Odrzywołek EML operator family.
 
 By Schwill M. 2026; https://doi.org/10.5281/zenodo.19714280
-See PDF: [https://shorturl.at/fDA2M](https://sl1nk.com/fdu7rrx)
+See PDF: [researchgate.net](https://sl1nk.com/fdu7rrx)
 
 •LSTM-EML-tree-Gallery: https://martinschwill84.github.io/LSTM-EML-Treemap/200_ways_to_Pi/
 
